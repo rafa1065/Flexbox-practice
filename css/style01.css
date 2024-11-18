@@ -1,0 +1,28 @@
+
+body{
+    border:1px #000000 solid;
+    background-color: green;
+ 
+}
+
+header{
+    Border:1px black solid;
+    background-color: yellow;
+    padding: 120px;
+    text-align: start;
+    
+    
+}
+main{
+    Border:1px black solid;
+    background-color:grey;
+    padding: 120px;
+    text-align: center;
+        
+
+}
+footer{
+    Border:1px black solid;
+    background-color: cornflowerblue;
+    padding: 120px;
+}

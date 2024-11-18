@@ -1,0 +1,40 @@
+body{
+    background-color: lightcyan;
+    display: block;
+    flex-direction: column;
+ 
+}
+
+header{
+    Border:1px black solid;
+    background-color: yellow;
+    padding: 120px;
+    text-align: start;
+    flex-basis: 20%;
+    justify-content: space-between;
+    margin-top:30px;
+    
+    
+    
+}
+main{
+    Border:1px black solid;
+    background-color:grey;
+    padding: 120px;
+    text-align: center;
+    flex-basis: 20%;
+    justify-content: space-between;
+    margin-top: 30px;
+
+
+        
+
+}
+footer{
+    Border:1px black solid;
+    background-color: cornflowerblue;
+    padding: 120px;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
