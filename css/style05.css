@@ -28,66 +28,55 @@ header {
 
 }
 
-.navegador{
-    border: 1px red solid;
-    display:inline-flex;
-    width: 40%;
+.box21 {
+    display: flex;
+    border: 1px black solid;
+    width: 100%;
+    margin-top: 30px;
+    justify-content: center;
+    align-content: center;
     padding: 10px;
-    justify-content: space-between;
 
-    height: 65px;
+    height: 250px;
+}
+
+.flex-nav {
+    display: flex;
+    padding: 10px;
+
 
 }
 
-.nav21{
-    border:1px black solid;
-    background-color: lightcoral;
+.flex-nav div {
+    border: 1px black solid;
+    background-color: deeppink;
     width: 100px;
-    height: 50px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+
+    justify-content: center;
+
 
 }
-
-.nav22{
-    border:1px black solid;
-    background-color: lightcoral;
-    width: 100px;
-    height: 50px;
-
-}
-.nav23{
-    border:1px black solid;
-    background-color: lightcoral;
-    width: 100px;
-    height: 50px;
-
-}
-
-.nav24{
-    border:1px black solid;
-    background-color: lightcoral;
-    width: 100px;
-    height: 50px;
-
-}
-
-
-
 
 .main1 {
-    width: 100%;
-    justify-content: space-between;
     display: flex;
+    justify-content: center;
+    
+    
 
 }
 
 .box21 {
     Border: 1px black solid;
     background-color: grey;
-    margin-top: 30px;
+    margin-top: 20px;
     flex-basis: 35%;
     margin-right: 20px;
 
-    height: 150x;
+    height: 150px;
 
 
 }
@@ -95,26 +84,11 @@ header {
 .box22 {
     Border: 1px black solid;
     background-color: aquamarine;
-    margin-top: 30px;
+    margin-top: 20px;
     flex-basis: 65%;
 
-
-
-    height: 150px;
+    height: 170px;
 }
-
-.box23 {
-    Border: 1px black solid;
-    background-color: aquamarine;
-    margin-top: 30px;
-    flex-basis: 65%;
-
-
-    height: 150px;
-}
-
-
-
 
 
 footer {

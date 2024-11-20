@@ -24,7 +24,6 @@ header {
 }
 
 .principal{
-    border:1px black solid;
     display: flex;
     justify-content: space-between;
  
@@ -33,7 +32,7 @@ header {
 
 
 .navegador{
-    border: 1px red solid;
+  
     display:inline-flex;
     width: 20%;
     padding: 10px;
@@ -43,7 +42,7 @@ header {
 
 }
 .navegador2{
-    border: 1px red solid;
+
     display:inline-flex;
     width: 20%;
     padding: 10px;
@@ -118,20 +117,6 @@ header {
 
     height: 150px;
 }
-
-.box23 {
-    Border: 1px black solid;
-    background-color: aquamarine;
-    margin-top: 30px;
-    flex-basis: 65%;
-
-
-    height: 150px;
-}
-
-
-
-
 
 footer {
     Border: 1px black solid;

@@ -157,13 +157,11 @@ header {
 
 
 .text{
-    border:1px black solid;
     background-color: aliceblue;
     align-items: center;
     margin-right: 60px;
-
-
     flex-shrink: 5;
+    height: 200px;
 
 }
 

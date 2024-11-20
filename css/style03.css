@@ -16,9 +16,7 @@ body {
 header {
     Border: 1px black solid;
     background-color: yellow;
-    text-align: start;
-    flex-basis: 20%;
-    justify-content: space-around;
+    text-align: justify;
     margin-top: 30px;
 
     height: 200px;
@@ -26,9 +24,7 @@ header {
 }
 
 .main1 {
-
     width: 100%;
-    justify-content: space-between;
     display: flex;
 
 }
@@ -36,10 +32,7 @@ header {
 .box21 {
     Border: 1px black solid;
     background-color: grey;
-    display: inline-flex;
-    flex-direction: row;
     flex-basis: 50%;
-
     margin-top: 30px;
     height: 200px;
 
@@ -49,8 +42,6 @@ header {
 .box22 {
     Border: 1px black solid;
     background-color: aquamarine;
-    display: inline-flex;
-    flex-direction: row;
     flex-basis: 50%;
     margin-top: 30px;
     height: 200px;

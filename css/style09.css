@@ -55,12 +55,12 @@ header {
 
 .navegador{
     
-    display:inline-flex;
+    display:flex;
     width: 40%;
     padding: 10px;
     justify-content: space-between;
     margin-top: 20px;
-    margin-left:300px ;
+ 
     
 
     height: 65px;
@@ -98,9 +98,6 @@ header {
 
 }
 
-
-
-
 .main1 {
     width: 100%;
     justify-content: space-between;
@@ -130,21 +127,6 @@ header {
 
     height: 150px;
 }
-
-.box23 {
-    Border: 1px black solid;
-    background-color: aquamarine;
-    margin-top: 30px;
-    flex-basis: 65%;
-
-
-    height: 150px;
-}
-
-
-
-
-
 .box3{
     Border: 1px black solid;
     background-color: cornflowerblue;
